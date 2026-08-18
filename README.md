@@ -3,6 +3,10 @@
 A robot that navigates through a challenging obstacle course and can intake and shoot tennis balls.
 
 
+https://github.com/user-attachments/assets/d4b2ccb0-fa03-435b-ad92-068b4372a665
+
+<img width="628" height="648" alt="image" src="https://github.com/user-attachments/assets/5eacfd09-0941-4306-b9e2-4a4ed112921d" />
+
 
 ## Important Links
 
