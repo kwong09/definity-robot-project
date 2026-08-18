@@ -9,6 +9,8 @@ https://github.com/user-attachments/assets/d4b2ccb0-fa03-435b-ad92-068b4372a665
 
 
 ## Important Links
+ - [Onshape document](https://cad.onshape.com/documents/242f1b4dc737510c4a5df910/w/1bdbd6909af1f2f738e34575/e/52617dcb231c25f66da39c03) *(this includes all the 3D print files as well as full robot assembly)*
+ - [Parts list](https://docs.google.com/spreadsheets/d/1HUPfm7-IXxoTsjJXf8ZeQtVRJgV2OwNiN3OtU4khO2M/edit?usp=sharing) *(this has all of the parts that we bought off Amazon, AndyMark, etc. for any components we did not manufacture ourselves)*
 
 
 ## Bill of Materials (COTS Parts)
