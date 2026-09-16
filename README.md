@@ -1,8 +1,23 @@
 # definity-robot-project
 ## Project Description
-A robot that navigates through a challenging obstacle course and can intake and shoot tennis balls.
+A robot that navigates through a challenging obstacle course and can intake and shoot tennis balls. This project focuses on the frame of the robot and the intake subsystem (the rest of the team members worked on other parts of the robot!)
+
+## Features:
+* Intake system that can hold up to 8 tennis balls
+* Robot frame with rotating front as suspension
+* Drivebase that can run over cinderblocks and bricks
+
+## CAD Model:
+This is the full assembly of the robot with the intake subsystem attached.
+The intake subsystem was tightened using M4 or M3 screws (either worked for the 3d printed shaft collars).
+The Maxynos motors were attached to the frame of the robot using M3 screws.
+The frame for the intake was made of Aluminum 6061 and was bent in the machine shop (drawings for the intake subsystem and frame for the robot are attached in the repository).
+
+<img width="843" height="585" alt="Screenshot 2026-09-15 at 10 32 18 PM" src="https://github.com/user-attachments/assets/2d43eb6e-5dba-47cd-9fe2-f1b56e4725a9" />
 
 
+
+## More Photos and Videos!!
 https://github.com/user-attachments/assets/d4b2ccb0-fa03-435b-ad92-068b4372a665
 
 <img width="628" height="648" alt="image" src="https://github.com/user-attachments/assets/5eacfd09-0941-4306-b9e2-4a4ed112921d" />
