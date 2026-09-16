@@ -11,7 +11,9 @@ A robot that navigates through a challenging obstacle course and can intake and 
 This is the full assembly of the robot with the intake subsystem attached.
 The intake subsystem was tightened using M4 or M3 screws (either worked for the 3d printed shaft collars).
 The Maxynos motors were attached to the frame of the robot using M3 screws.
-The frame for the intake was made of Aluminum 6061 and was bent in the machine shop (drawings for the intake subsystem and frame for the robot are attached in the repository).
+The frame for the intake was made of Aluminum 6061 and was bent in the machine shop (drawings for the intake subsystem and frame for the robot are attached in the repository).  
+
+When assembling the intake, start from the side that does not have the motor. Make sure to also add the belts on before pushing it through the bearing. That way, you are able to daisy chain the belts so that it alternates. Preview the picture of the actual assembly at the bottom of this readme file to see how you must orient the belts.
 
 <img width="843" height="585" alt="Screenshot 2026-09-15 at 10 32 18 PM" src="https://github.com/user-attachments/assets/2d43eb6e-5dba-47cd-9fe2-f1b56e4725a9" />
 
